@@ -1,0 +1,11 @@
+Studienleistung: Erstellen einer einfach verketteten linearen Liste in C.
+                 Als Nutzdaten, kann eine Integer Zahl, oder beliebige andere
+                 Daten gespeichert werden.
+                 Erstellen Sie auch einen Zeiger auf das Ende der Liste um
+                 dort einfach Elemente anhängen zu können.
+                 Implementieren Sie eine Funktion um an beliebiger Stelle
+                 ein Element zu löschen.
+
+                 Bearbeitungszeit: 1 Woche
+
+Hausarbeit:      Einarbeitung in GNU/Linux, Installation einer Distribution
